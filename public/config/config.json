@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9516004b794a210F114a1496f6636B5abFA535Fe",
+  "SCAN_LINK": "https://polygonscan.com/token/0x9516004b794a210F114a1496f6636B5abFA535Fe",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MimeMe NFT",
+  "SYMBOL": "MMN",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mimemenft",
+  "SHOW_BACKGROUND": true
+}
